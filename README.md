@@ -74,6 +74,7 @@ Escreve o código **production-ready**, instala dependências, compila, executa 
 ## 📸 Capturas de Tela 
 
 ![Exemplo 1](docs/screenshot1.png)  
+
 ![Exemplo 2](docs/screenshot2.png)
 
 ---
@@ -86,3 +87,17 @@ Escreve o código **production-ready**, instala dependências, compila, executa 
 - Pacotes de build para linguagens desejadas (gcc, g++, node, java, etc.)
 
 ### 2️⃣ Clonar o Repositório
+git clone https://github.com/seuusuario/arquiteto-genesis.git
+cd arquiteto-genesis
+
+### 3️⃣ Instalar dependências Python
+pip install -r requirements.txt
+
+### 4️⃣ Configurar API Key
+Ao iniciar, o sistema pedirá sua API Key do **Google Gemini**.
+
+### 5️⃣ Rodar o servidor
+python app.py
+
+Acesse no navegador:  
+http://127.0.0.1:5000
