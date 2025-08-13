@@ -32,6 +32,26 @@ Seja para **estudo**, **prototipagem** ou até mesmo desenvolvimento de aplicaç
 - A IA **lembra do histórico** e consegue evoluir projetos existentes;
 - Geração de **blueprints e arquitetura técnica** automaticamente.
 
+  
+## 🧩 Como funciona o Agente de Codificação em 4 Camadas
+
+O Genesis não é só um gerador de código. Ele age como um arquiteto de software com um pipeline inteligente dividido em **4 camadas complementares**:
+
+1️⃣ **Camada de Triagem e Classificação**  
+Recebe o pedido e entende se é uma saudação, dúvida, criação de novo projeto ou modificação de um código existente.  
+*(Agente 0 – “Filtro Universal”)*  
+
+2️⃣ **Camada de Blueprint Técnico**  
+Transforma a ideia em um **plano detalhado** de funcionalidade e arquitetura, escolhendo a melhor linguagem e tecnologias para o caso.  
+*(Agente 1 – “Blueprint Universal”)*  
+
+3️⃣ **Camada de Arquitetura e Estruturação**  
+Converte o blueprint em um **layout de projeto real**, com pastas, arquivos, dependências e configurações prontas.  
+*(Agente 2 – “Arquiteto Multilíngue”)*  
+
+4️⃣ **Camada de Desenvolvimento e Execução**  
+Escreve o código **production-ready**, instala dependências, compila, executa e até disponibiliza preview web em tempo real.  
+*(Agente 3 – “Construtor Full Stack”)*
 ---
 
 ## 🖥️ Linguagens Suportadas
