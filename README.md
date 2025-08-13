@@ -4,7 +4,7 @@
 [![Status](https://img.shields.io/badge/status-ativo-brightgreen.svg)]()
 [![Stack](https://img.shields.io/badge/stack-Flask%20%2B%20Google%20Gemini-blue.svg)]()
 
-O **Arquiteto Genesis ** é uma plataforma **open source** que usa **Inteligência Artificial** para **criar, modificar, compilar e executar projetos completos em praticamente qualquer linguagem**.
+O Arquiteto Genesis é uma plataforma open source que utiliza um Agente de Codificação em 4 Camadas para criar, modificar, compilar e executar projetos completos em praticamente qualquer linguagem.
 
 Seja para **estudo**, **prototipagem** ou até mesmo desenvolvimento de aplicações reais, o Genesis oferece um ambiente interativo com **pré-visualização ao vivo, terminal integrado** e suporte a **importação/exportação** de projetos.
 
